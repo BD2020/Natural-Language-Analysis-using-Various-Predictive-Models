@@ -266,9 +266,9 @@ print("Classification: ", voted_classifier.classify(testing_set[5][0]),
 
 '''
 Output Results Example:
-data_path:  C:\ML_Data\_sentdex_data\03 - Python - Natural Lang Processing\ 
-pickle_path:  C:\ML_Data\_sentdex_data\03 - Python - Natural Lang Processing\movie_reviews_pickle2
-Data path:  C:\ML_Data\_sentdex_data\03 - Python - Natural Lang Processing\positive.txt
+data_path:  C:\ML_Data 
+pickle_path:  C:\ML_Data\movie_reviews_pickle2
+Data path:  C:\ML_Data\positive.txt
 Most Informative Features
                  routine = True              neg : pos    =     15.0 : 1.0
             refreshingly = True              pos : neg    =     13.0 : 1.0
