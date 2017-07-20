@@ -1,3 +1,5 @@
+# Import the Natural Language Processing toolkit library
+#
 import nltk
 
 # 2,000 movie reviews in total: 1,000 positive, 1,000 negative
