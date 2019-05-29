@@ -233,7 +233,7 @@ print("NuSVC Classifier accuracy %: ", (nltk.classify.accuracy(NuSVC_classifier,
 # a compilation of all the classifier
 # don't use SVC as it produced poor results
 # we have seven classifiers
-#
+# 
 
 voted_classifier = VoteClassifier(classifier,
                                   MNB_classifier,
